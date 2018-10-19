@@ -1,0 +1,14 @@
+chr - N133 N133 0 3 chr1
+chr - N156 N156 0 3 chr2
+chr - N160 N160 0 3 chr3
+chr - N234 N234 0 3 chr4
+chr - N262 N262 0 3 chr5
+chr - N276 N276 0 3 chr6
+chr - N295 N295 0 3 chr7
+chr - N301 N301 0 3 chr8
+chr - N332 N332 0 3 chr9
+chr - N339 N339 0 3 chr10
+chr - N386 N386 0 3 chr11
+chr - N392 N392 0 3 chr12
+chr - N411 N411 0 3 chr13
+chr - N448 N448 0 3 chr14
